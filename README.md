@@ -1,2 +1,2 @@
-# App4Grad
-application for graduation system
+# Bodegero System
+system for inventory sales and more
